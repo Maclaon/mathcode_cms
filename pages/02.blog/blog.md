@@ -1,6 +1,5 @@
 ---
 title: 文章
-media_order: walle.jpg
 hide_git_sync_repo_link: false
 routable: true
 cache_enable: true
@@ -27,3 +26,4 @@ feed:
     limit: 10
 ---
 
+用数学的思维去理解程序的运行~
