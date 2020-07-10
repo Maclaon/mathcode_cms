@@ -3,6 +3,7 @@ title: 概率论
 date: '01:53 10-07-2020'
 hide_git_sync_repo_link: false
 hide_page_title: false
+visible: false
 content:
     items: '@self.children'
     order:
