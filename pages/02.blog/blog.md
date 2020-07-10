@@ -27,4 +27,4 @@ feed:
     limit: 10
 ---
 
-<font size="8" face="arial" color="white">用数学的理论去解释程序的运行，用程序的运行去验证数学的理论！</font>
+<font size="8" face="arial" color="white">用数学去解释程序，用程序去验证数学！</font>
