@@ -10,7 +10,7 @@ content:
     order:
         by: folder
         dir: asc
-hide_next_prev_page_buttons: false
+hide_next_prev_page_buttons: true
 ---
 
 Your page content goes here.
