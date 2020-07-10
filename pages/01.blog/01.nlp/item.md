@@ -7,7 +7,8 @@ visible: true
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
-show_pagination: true
+show_pagination: false
+header_image: '0'
 hide_from_post_list: false
 feed:
     limit: 10
