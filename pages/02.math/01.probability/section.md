@@ -5,7 +5,7 @@ hide_git_sync_repo_link: false
 hide_page_title: false
 routable: true
 cache_enable: true
-visible: false
+visible: true
 ---
 
 Your page content goes here.
