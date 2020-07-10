@@ -4,7 +4,7 @@ hide_git_sync_repo_link: false
 routable: true
 cache_enable: true
 visible: true
-hero_image: walle.jpg
+hero_image: walle.png
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
@@ -26,4 +26,5 @@ feed:
     limit: 10
 ---
 
-用数学的思维去理解程序的运行~
+My Open Publishing Space
+Create, Share and Collaborate
