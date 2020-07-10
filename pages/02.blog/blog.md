@@ -1,5 +1,5 @@
 ---
-title: 文章
+title: 首页
 media_order: walle.jpg
 hide_git_sync_repo_link: false
 routable: true
@@ -22,7 +22,7 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: false
-post_icon: newspaper-o
+post_icon: file-text
 feed:
     limit: 10
 ---
