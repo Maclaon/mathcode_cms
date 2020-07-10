@@ -9,6 +9,9 @@ show_sidebar: false
 show_breadcrumbs: false
 show_pagination: false
 header_image: '0'
+summary:
+    enabled: '1'
+    format: long
 post_icon: file-text
 hide_from_post_list: false
 feed:
