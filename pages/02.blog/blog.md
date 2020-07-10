@@ -20,6 +20,7 @@ content:
 bricklayer_layout: true
 display_post_summary:
     enabled: false
+post_icon: newspaper-o
 feed:
     limit: 10
 ---
