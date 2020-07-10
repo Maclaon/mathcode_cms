@@ -5,8 +5,8 @@ routable: true
 cache_enable: true
 visible: true
 blog_url: /blog
-show_sidebar: true
-show_breadcrumbs: true
+show_sidebar: false
+show_breadcrumbs: false
 show_pagination: true
 content:
     items:
