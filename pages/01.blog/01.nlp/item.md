@@ -7,6 +7,9 @@ blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
 show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10
 content:
     items: '- ''@self.children'''
     limit: '5'
@@ -18,8 +21,6 @@ content:
 bricklayer_layout: '1'
 display_post_summary:
     enabled: '0'
-feed:
-    limit: 10
 ---
 
 # SM算法
