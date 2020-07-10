@@ -1,5 +1,5 @@
 ---
-title: 概率论
+title: 数学
 date: '01:53 10-07-2020'
 hide_git_sync_repo_link: false
 hide_page_title: false
