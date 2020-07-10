@@ -7,7 +7,7 @@ cache_enable: true
 visible: true
 hero_image: walle.jpg
 blog_url: /blog
-show_sidebar: false
+show_sidebar: true
 show_breadcrumbs: false
 show_pagination: true
 content:
@@ -21,7 +21,7 @@ content:
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
-    enabled: false
+    enabled: true
 post_icon: file-text
 feed:
     limit: 10
