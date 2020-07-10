@@ -4,6 +4,7 @@ published: true
 date: '01:48 10-07-2020'
 hide_git_sync_repo_link: false
 visible: true
+hero_image: walle.jpg
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
