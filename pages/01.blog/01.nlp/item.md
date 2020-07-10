@@ -1,5 +1,6 @@
 ---
 title: NLP
+published: true
 date: '01:48 10-07-2020'
 hide_git_sync_repo_link: false
 visible: true
@@ -7,6 +8,8 @@ blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
 show_pagination: true
+header_image: '1'
+header_image_file: walle.jpg
 hide_from_post_list: false
 feed:
     limit: 10
