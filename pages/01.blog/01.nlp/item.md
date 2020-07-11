@@ -1,5 +1,5 @@
 ---
-title: NLP
+title: SM算法
 published: true
 date: '2020-07-10 01:48'
 taxonomy:
@@ -33,7 +33,7 @@ display_post_summary:
     enabled: '0'
 ---
 
-# SM算法
+!! 介绍记忆项被记住的研究算法！
 
 ## SM-0
 
