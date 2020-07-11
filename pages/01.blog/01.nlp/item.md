@@ -4,20 +4,14 @@ published: true
 date: '01:48 10-07-2020'
 hide_git_sync_repo_link: false
 visible: true
-hero_classes: ''
-hero_image: ''
-header_image_alt_text: ''
-header_image_credit: ''
-header_image_creditlink: ''
 blog_url: /blog
-show_sidebar: '0'
-show_breadcrumbs: '0'
-show_pagination: '0'
+show_sidebar: false
+show_breadcrumbs: false
+show_pagination: false
 post_icon: file-text
-hide_from_post_list: '1'
+hide_from_post_list: true
 feed:
-    limit: '10'
-    description: ''
+    limit: 10
 content:
     items: '- ''@self.children'''
     limit: '5'
