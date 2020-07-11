@@ -13,7 +13,7 @@ show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 5
+    limit: 6
     order:
         by: date
         dir: desc
@@ -21,7 +21,7 @@ content:
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
-    enabled: true
+    enabled: false
 post_icon: file-text
 feed:
     limit: 10
