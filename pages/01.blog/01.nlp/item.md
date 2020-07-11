@@ -8,6 +8,9 @@ blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
 show_pagination: false
+summary:
+    enabled: '1'
+    format: short
 post_icon: file-text
 hide_from_post_list: false
 feed:
