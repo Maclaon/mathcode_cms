@@ -8,7 +8,7 @@ visible: true
 hero_image: walle.jpg
 blog_url: /blog
 show_sidebar: false
-show_breadcrumbs: false
+show_breadcrumbs: true
 show_pagination: true
 content:
     items:
