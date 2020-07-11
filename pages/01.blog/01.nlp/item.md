@@ -1,7 +1,7 @@
 ---
 title: NLP
 published: true
-date: '01:48 10-07-2020'
+date: '2020-07-10 01:48'
 hide_git_sync_repo_link: false
 dateformat: 'Y-m-d H:i'
 visible: true
@@ -41,6 +41,8 @@ display_post_summary:
 2、将这些知识点记忆项以$20-40$个数量划分成一组一组的，这些组在这里被定义为**页面**（一种称谓而已，就是一对组合记忆项）；
 英文：Associate items into groups containing 20-40 elements. These groups are later called pages
 
+===
+
 3、以天为间隔，以组为一次记忆单元，按照以下算法进行重复记忆: 
 英文：Repeat whole pages using the following intervals (in days):)
 
@@ -54,8 +56,6 @@ $$
  \end{cases} 
  ，I(i)是第i-1次重复记忆的间隔
 $$
-
-===
 
 4、将所有$35$天以后忘记的知识点记忆项[^1]拷贝到一个新的页面组中（并不是将其从原始的记忆Pages中删除），这些新的页面组将重复上述算法继续出现一遍记忆。
 
