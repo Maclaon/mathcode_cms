@@ -20,7 +20,7 @@ post_icon: file-text
 hide_from_post_list: false
 feed:
     limit: 10
-googletitle: 'SM-2&SM-2+算法解释与实现'
+googletitle: 'SuperMemo: SM-2&SM-2+算法解释与实现'
 googledesc: '深度理解与解释SM-2&SM-2+算法，分析出对应的优缺点和改进的方式，并给出具体的代码实现和代码说明'
 twittercardoptions: summary
 articleenabled: false
