@@ -48,7 +48,7 @@ display_post_summary:
     enabled: '0'
 ---
 
-! :fa-flag: 介绍记忆项被记住的研究算法！
+!! :fa-car: 介绍记忆项被记住的研究算法！
 
 ## SM-0
 
