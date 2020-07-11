@@ -42,10 +42,10 @@ display_post_summary:
 1、将知识点记忆项尽可能的分割成最小的问-答形式；
 英文：Split the knowledge into smallest possible question-answer items
 
+===
+
 2、将这些知识点记忆项以$20-40$个数量划分成一组一组的，这些组在这里被定义为**页面**（一种称谓而已，就是一对组合记忆项）；
 英文：Associate items into groups containing 20-40 elements. These groups are later called pages
-
-===
 
 3、以天为间隔，以组为一次记忆单元，按照以下算法进行重复记忆: 
 英文：Repeat whole pages using the following intervals (in days):)
