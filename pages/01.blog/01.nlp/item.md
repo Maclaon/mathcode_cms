@@ -2,6 +2,9 @@
 title: NLP
 published: true
 date: '2020-07-10 01:48'
+taxonomy:
+    tag:
+        - 'spaced repetition'
 hide_git_sync_repo_link: false
 dateformat: 'Y-m-d H:i'
 visible: true
