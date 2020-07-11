@@ -1,5 +1,5 @@
 ---
-title: SM算法
+title: 'SM-2&SM-2+算法'
 published: true
 date: '2020-07-10 01:48'
 taxonomy:
@@ -20,6 +20,21 @@ post_icon: file-text
 hide_from_post_list: false
 feed:
     limit: 10
+googletitle: 'SM-2&SM-2+算法解释与实现'
+googledesc: '深度理解与解释SM-2&SM-2+算法，分析出对应的优缺点和改进的方式，并给出具体的代码实现和代码说明'
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 content:
     items: '- ''@self.children'''
     limit: '5'
